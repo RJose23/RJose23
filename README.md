@@ -5,3 +5,4 @@
 
 Majorly obsessed with Malcolm Gladwell and Noam Chomsky
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=RJose23)
