@@ -5,4 +5,3 @@
 
 Majorly obsessed with Malcolm Gladwell and Noam Chomsky
 
-[![Visits Badge](https://badges.pufler.dev/visits/RJose23/git-badges)](https://badges.pufler.dev)
