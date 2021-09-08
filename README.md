@@ -1,5 +1,5 @@
-- ![banner](https://github.com/RJose23/RJose23/blob/main/New-file.gif)
-- <\br>
+ ![banner](https://github.com/RJose23/RJose23/blob/main/New-file.gif)
+ <\br>
 - 👋 Hi, I’m Rahul Jose
 - 👀 I’m an avid learner and is working on becoming a Data analyst
 - 🌱 I’m currently pursuing an undergraduate degree in Biotechnology
